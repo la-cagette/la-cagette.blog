@@ -14,3 +14,4 @@ permalink: /magasin/
 ## Les comités de ce pôle
 
 Pour modifier ces informations : https://github.com/la-cagette/la-cagette.github.io/blob/master/magasin.md
+
