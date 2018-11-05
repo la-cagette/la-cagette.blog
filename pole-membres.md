@@ -4,12 +4,12 @@ title: Pôle Membres
 permalink: /pole-membres/
 ---
 
-Cette page est une expérience de page commune pour les comités de la Cagette.
+## Wanted ! 
 
-### More Information
+## Priotrités du moment
 
-A place to include any other types of information that you'd like to include about yourself.
+## Indictateurs du moment
 
-### Contact me
+## Les comités de ce pôle
 
 [email@domain.com](mailto:email@domain.com)
