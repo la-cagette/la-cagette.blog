@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 
-Some information about you!
+Cette page est une expérience de page commune pour les comités de la Cagette.
 
 ### More Information
 
