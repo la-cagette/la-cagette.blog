@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pôle Membres
-permalink: /Pôle Membres/
+permalink: /pole-membres/
 ---
 
 Cette page est une expérience de page commune pour les comités de la Cagette.
