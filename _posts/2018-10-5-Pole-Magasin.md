@@ -3,8 +3,6 @@ layout: post
 title: Pôle Magasin
 ---
 
-# Pôle Magasin
-
 ## Wanted ! 
 
 ## Priotrités du moment
